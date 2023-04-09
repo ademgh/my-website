@@ -1,0 +1,48 @@
+.header {
+    text-align: center;
+    background-color: cadetblue;
+  }
+  .about-me {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+  }
+  .title {
+    font-weight: bold;
+    color: -webkit-linear-gradient( #000000, #535353);
+    opacity: 0.75;
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+  }
+  body {
+    font-family: georgia;
+    background: -webkit-linear-gradient(-45deg, #4e6988, #141E30);
+    color: azure;
+    font-size: 25px;
+  }
+  .writer-img {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    width: 160px;
+    background-color: cornflowerBlue;
+  }
+  h2 {
+    color:#0f1922;
+    opacity: 0.75;
+  }
+  ul {
+    color: #0f1922;
+  }
+  a {
+    color: seagreen;
+  }
+  a:hover {
+    color: darkgreen;
+  }
+  h6 {
+    color: #000000;
+  }
